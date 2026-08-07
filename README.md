@@ -1,15 +1,32 @@
 # Hi, I'm Daniel Marin 👋
 
-**MSc Engineering Physics** @ University of Coimbra  
-Building intelligent systems at the intersection of physics, control theory, and reinforcement learning — from research notebook to production VPS.
+**MSc Engineering Physics**, University of Coimbra. Graduated in July 2026 with a thesis graded 18 out of 20.
+
+I work where physical systems meet data: control, simulation and applied machine learning. Five years of physics taught me that the part I enjoy most is not sitting alone with a problem, it is explaining it to someone and watching it land.
+
+**Open to graduate roles in technical sales, solutions engineering and customer-facing engineering across Europe, on-site or hybrid. Relocating from September 2026.**
+
+English C1 · Portuguese native · Russian fluent · German A2
 
 ---
 
-## 🔬 What I'm working on
+## 🔬 Selected work
 
-- 🧠 **MSc Thesis** — Multi-Agent Reinforcement Learning (G2ANet) for autonomous control of wastewater treatment plants using BSM2/Simulink
-- 🧪 **rl-sweep** — 120-run PPO vs DQN hyperparameter study across 3 Gymnasium environments; discovered and root-caused a policy-collapse failure mode
-- 🌾 **Grain Sentinel** — STL + rolling MAD anomaly detector for industrial temperature data, deployed unattended on a $6/mo VPS via cron
+### 🧠 [bsm2-marl](https://github.com/Danielmarinn/bsm2-marl), MSc thesis
+
+Four cooperative agents controlling the BSM2 wastewater treatment benchmark, trained centrally and executed decentrally. The learned controller reached a lower operating cost than the manual baseline, but it got there by suppressing aeration and undertreating, with ammonia violations 91% of the time. Follow-up experiments with realistic action limits restored compliance, and the controller still did not beat the baseline. The contribution is the evaluation that shows when an apparent cost saving is really just less treatment.
+
+### 🤖 [robotics-portfolio](https://github.com/Danielmarinn/robotics-portfolio)
+
+Rigid body kinematics, forward and inverse kinematics, and Jacobian velocity control at about 50 Hz on a real UFactory xArm Lite6 over TCP/IP, with a damped least squares pseudo-inverse for robustness near singularities. MATLAB simulation plus Python on the hardware.
+
+### 🧪 [rl-sweep](https://github.com/Danielmarinn/rl-sweep)
+
+120 runs comparing PPO and DQN across 3 Gymnasium environments, with parallel execution, crash-safe resume and CI. Found a policy collapse failure mode, root-caused it and proposed a test to confirm the explanation.
+
+### 🌾 [grain-sentinel](https://github.com/Danielmarinn/grain-sentinel)
+
+STL and rolling MAD anomaly detection for stored-grain temperature data. Ramp-gating cut false positives from 125 to 20, which is 84% fewer, at 88% recall and 52% precision. Runs unattended on a small Linux VPS with cron.
 
 ---
 
@@ -24,24 +41,14 @@ Building intelligent systems at the intersection of physics, control theory, and
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 **Areas**  
-`Reinforcement Learning` `Multi-Agent Systems` `Control Theory` `Time-Series Analysis` `Anomaly Detection` `Hyperparameter Studies` `VPS Deployment`
-
----
-
-## 📂 Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [bsm2-marl](https://github.com/Danielmarinn/bsm2-marl) | MARL for wastewater treatment plant control — MSc Thesis | Python · PyTorch · MATLAB/Simulink |
-| [rl-sweep](https://github.com/Danielmarinn/rl-sweep) | 120-run PPO vs DQN sweep across 3 Gymnasium envs — discovered & explained a policy-collapse failure mode | Python · Stable-Baselines3 · Gymnasium · multiprocessing |
-| [grain-sentinel](https://github.com/Danielmarinn/grain-sentinel) | STL anomaly detector deployed on a $6/mo VPS — 88% recall, 52% precision | Python · pandas · statsmodels · Linux/cron |
+`Control Systems` `Reinforcement Learning` `Multi-Agent Systems` `Numerical Simulation` `Time-Series Analysis` `Anomaly Detection` `Design of Experiments` `Technical Communication`
 
 ---
 
 ## 🏃 Beyond the code
 
-When I'm not training neural networks, I'm training myself — competing in **track & field** for Académica de Coimbra.
+When I'm not training neural networks, I'm training myself, competing in **track & field** for Académica de Coimbra.
 
 ---
 
-*Open to graduate roles in technical sales, solutions engineering and customer-facing engineering across Europe, on-site or hybrid. Relocating from September 2026. Feel free to reach out!*
+*Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/danielmarinn/).*

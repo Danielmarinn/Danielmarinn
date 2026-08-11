@@ -1,12 +1,12 @@
 # Hi, I'm Daniel Marin 👋
 
-**MSc Engineering Physics**, University of Coimbra. Graduated in July 2026 with a thesis graded 18 out of 20.
+**MSc Engineering Physics**, University of Coimbra. Academic requirements completed in July 2026, dissertation graded 18 out of 20, final administrative registration pending.
 
-I work where physical systems meet data: control, simulation and applied machine learning. Five years of physics taught me that the part I enjoy most is not sitting alone with a problem, it is explaining it to someone and watching it land.
+I work where physical systems meet data: control, simulation and applied machine learning. Five years of physics taught me that the technical work only matters to me when it reaches people.
 
 **Open to graduate roles in technical sales, solutions engineering and customer-facing engineering across Europe, on-site or hybrid. Relocating from September 2026.**
 
-English C1 · Portuguese native · Russian fluent · German A2
+English C2 (EF SET 79/100) · Portuguese native · Russian fluent · German A2
 
 ---
 

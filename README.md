@@ -6,7 +6,7 @@ I work where physical systems meet data: control, simulation and applied machine
 
 Open to graduate roles in technical sales, solutions engineering and customer-facing engineering across Europe, on-site or hybrid. Relocating from September 2026.
 
-English C2 (EF SET 79/100) · Portuguese native · Russian fluent · German A2
+English at full professional proficiency · Portuguese native · Russian fluent · German A2
 
 ## Selected work
 

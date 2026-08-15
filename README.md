@@ -4,7 +4,7 @@ MSc Engineering Physics, University of Coimbra. Academic requirements completed 
 
 I work where physical systems meet data: control, simulation and applied machine learning. Five years of physics taught me that the technical work only matters to me when it reaches people.
 
-Open to graduate roles in technical sales, solutions engineering and customer-facing engineering across Europe, on-site or hybrid. Relocating from September 2026.
+Open to graduate engineering roles with real client or team contact: application engineering, field service, systems integration and solutions engineering, across Europe, on-site or hybrid. Relocating from September 2026.
 
 English at full professional proficiency · Portuguese native · Russian fluent · German A2
 

@@ -1,6 +1,6 @@
 # Daniel Marin
 
-MSc Engineering Physics, University of Coimbra. Academic requirements completed in July 2026, dissertation graded 18 out of 20, final administrative registration pending.
+MSc Engineering Physics, University of Coimbra. Completed July 2026, final grade 16 out of 20 (Very Good), dissertation graded 18 out of 20.
 
 I work where physical systems meet data: control, simulation and applied machine learning. Five years of physics taught me that the technical work only matters to me when it reaches people.
 
